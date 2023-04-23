@@ -26,7 +26,7 @@ include_directories(
   /usr/local/include
 )
 
-add_executable(ros_ws_bridge src/ros_ws_bridge/ros_ws_bridge.cpp)
+add_executable(ros_ws_bridge src/ros_ws_bridge.cpp)
 ament_target_dependencies(ros_ws_bridge rcl rclcpp std_msgs)
 
 install(TARGETS

@@ -1,4 +1,4 @@
-# ROS2-MQTT Client - For ROS2-MQTT connection (rclcpp)
+# ROS2-WS Client - For ROS2-WebSocket connection (rclcpp)
 
 ## Document
   - [Environment](#environment)

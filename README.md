@@ -1,4 +1,4 @@
-# ROS2-WS Client - For ROS2-WebSocket connection (rclcpp)
+# rclcpp-websocket bridge server
 
 ## Document
   - [Environment](#environment)
